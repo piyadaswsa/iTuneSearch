@@ -4,6 +4,13 @@ iTune Search is a simple project that represents for search music with iTune Sea
 
 The project app layers is present by MVVM pattern and use tech stack like Compose and Hilt.
 
+## Demo
+<div>
+  <img src="misc/demo_1.gif" width="160" height="380" hspace="20">
+  <img src="misc/demo_2.gif" width="160" height="380" hspace="20">
+  <img src="misc/demo_3.gif" width="160" height="380" hspace="20">
+</div>
+
 ## Description
 * UI 
    * Compose for UI framework
