@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">iTune Search</string>
+    <string name="welcome_text">Listen to track\nin your mood today</string>
+    <string name="search_text">Find your track mood...</string>
+    <string name="top_chart_text">Top Chart</string>
+    <string name="album_of_song">Album of this song"</string>
+</resources>
